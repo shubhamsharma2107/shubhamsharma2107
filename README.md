@@ -12,11 +12,10 @@ Passionate about defensive security, cloud infrastructure, and building resilien
 * Integrated **Log Analytics Workspace** and **Sentinel (SIEM)** to visualize attack geographic data.
 * Authored a comprehensive technical guide on Medium detailing the discovery and mitigation strategies.
 
-### 🏠 [SOC Home Lab: Windows & OPNsense](https://github.com/your-username/SOC-Home-Lab)
-* Architected a virtualized home lab environment featuring **Windows Server**, **Windows 11**, and an **OPNsense firewall**.
-* Implemented **Wazuh** for endpoint detection and response (EDR) and security monitoring.
-* Configured custom firewall rules and network segmentation to practice incident response in a controlled environment.
-
+### ☁️ [Azure Vulnerability Management Lab: Tenable Nessus](https://github.com/shubhamsharma2107/Vulnerability-Management-Lab-Nessus-Guide)
+* Architected a cloud security lab in **Microsoft Azure** featuring **Windows 10 Pro**, **Ubuntu Linux**, and a dedicated **Tenable Nessus** scanning appliance.
+* Engineered credentialed vulnerability scans by bypassing host OS firewalls, modifying Windows Registry UAC settings, and securing cloud perimeters with **NSG IP whitelisting**.
+* Executed the full vulnerability management lifecycle (Discover, Assess, Remediate, Verify), successfully patching OS and third-party software to eliminate critical security risks.
 ---
 
 ## 🛠️ Technical Skills
