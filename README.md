@@ -20,38 +20,12 @@ Passionate about defensive security, cloud infrastructure, and building resilien
 
 ## 🛠️ Technical Skills
 
-* **Security:** SOC Analysis, SIEM (Azure Sentinel, Wazuh), Honeypots, File Integrity Monitoring.
-* **Networking:** OPNsense, Firewall Configuration, Network Segmentation, Active Directory.
+* **Security:** SOC Analysis, SIEM (Azure Sentinel, Wazuh), Honeypots, File Integrity Monitoring, Crowdstrike
+* **Networking:** OPNsense, Firewall Configuration, Network Segmentation, Active Directory, Fortinet
 * **Cloud:** Microsoft Azure (Log Analytics, Virtual Machines).
 * **Languages:** PowerShell, Python
 
 ---
 
-## ✍️ Recent Writing & Media
-I enjoy breaking down complex security concepts into digestible content.
-* **Medium:** [Building an Azure Honeypot from Scratch](https://medium.com/@shubham)
 
 
----
-
-## 🤳 Connect with me:
-
-<br />
-
----
-
-
-<!--
-**shubhamsharma2107/shubhamsharma2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
