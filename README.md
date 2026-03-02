@@ -7,7 +7,7 @@ Passionate about defensive security, cloud infrastructure, and building resilien
 
 ## 👨‍💻 Cybersecurity Projects
 
-### 🌩️ [Azure Honeypot: Global Threat Monitoring](https://medium.com/@shubham) 
+### 🌩️ [Azure Honeypot: Global Threat Monitoring](https://medium.com/@shubham2107/i-opened-a-window-to-the-internet-24-hours-with-an-azure-honeypot-23bbbb1f5da9)
 * Deployed an **Azure-based honeypot** to capture and analyze real-time RDP brute-force attacks from around the world.
 * Integrated **Log Analytics Workspace** and **Sentinel (SIEM)** to visualize attack geographic data.
 * Authored a comprehensive technical guide on Medium detailing the discovery and mitigation strategies.
