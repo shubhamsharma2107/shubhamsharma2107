@@ -9,7 +9,7 @@ continuous learning and community knowledge-sharing.
 
 📍 Hamilton, ON | 📧 shubhamsharma2107@outlook.com
 🔗 [LinkedIn](https://linkedin.com/in/shubham-sharma-2107s) | 
-📄 [Resume](#) | 🧪 [TryHackMe Profile](#)
+📄 [Resume](#) | 🧪 [TryHackMe Profile](https://tryhackme.com/p/shxrma007)
 
 ---
 
