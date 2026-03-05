@@ -38,13 +38,13 @@ continuous learning and community knowledge-sharing.
 - Simulated real-world attacks (brute-force, lateral movement) using Kali Linux
   and analyzed detections in SIEM dashboards.
 
-### 🌩️ [Azure Honeypot — Global Threat Monitoring](https://medium.com/@shubham2107/...)
+### 🌩️ [Azure Honeypot — Global Threat Monitoring](https://medium.com/@shubham2107/i-opened-a-window-to-the-internet-24-hours-with-an-azure-honeypot-23bbbb1f5da9)
 - Deployed an **Azure-based honeypot** to capture and analyze real-time RDP
   brute-force attacks from global threat actors.
 - Integrated **Log Analytics Workspace** and **Microsoft Sentinel (SIEM)**
   to visualize attack origin geographic data on a live world map.
 - Documented findings and mitigation strategies in a comprehensive
-  [Medium article](https://medium.com/@shubham2107/...).
+  [Medium article](https://medium.com/@shubham2107/i-opened-a-window-to-the-internet-24-hours-with-an-azure-honeypot-23bbbb1f5da9).
 
 ### ☁️ [Azure Vulnerability Management Lab — Nessus](https://github.com/shubhamsharma2107/Vulnerability-Management-Lab-Nessus-Guide)
 - Architected a cloud security lab in **Microsoft Azure** with **Windows 10**,
